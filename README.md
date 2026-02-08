@@ -23,7 +23,7 @@ Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST API
 
 PostgreSQL, MySQL (базово)
 
-Git, Maven, Docker, Docker Compose, Liquibase, Eureka, Prometheus, Grafana
+Git, Maven, Docker, Docker Compose, Liquibase, Eureka, Kafka, Prometheus, Grafana
 
 Linux/Bash (базово)
 
