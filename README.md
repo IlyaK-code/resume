@@ -17,7 +17,7 @@ Email: *ilya.kiulyak02@gmail.com*
 Начальная позиция Java-разработчика (Intern / Junior) с фокусом на развитие в backend-разработке, микросервисной архитектуре и высоконагруженных системах.
 
 ## Технический стек
-Java 17, ООП, коллекции, исключения, Stream API (базово), многопоточность (базово)
+Java 17+, ООП, коллекции, исключения, Stream API (базово), многопоточность (базово)
 
 Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST API
 
